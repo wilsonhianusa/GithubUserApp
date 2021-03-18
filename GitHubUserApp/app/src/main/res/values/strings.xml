@@ -1,0 +1,112 @@
+<resources>
+    <!-- Other string resources-->
+
+    <string-array name="username">
+        <item>Username : JakeWharton</item>
+        <item>Username : amitshekhariitbhu</item>
+        <item>Username : romainguy</item>
+        <item>Username : chrisbanes</item>
+        <item>Username : tipsy</item>
+        <item>Username : ravi8x</item>
+        <item>Username : jasoet</item>
+        <item>Username : budioktaviyan</item>
+        <item>Username : hendisantika</item>
+        <item>Username : sidiqpermana</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Name : Jake Wharton</item>
+        <item>Name : Amit Shekhar</item>
+        <item>Name : Romain Guy</item>
+        <item>Name : Chris Banes</item>
+        <item>Name : David</item>
+        <item>Name : Ravi Tamada</item>
+        <item>Name : Deny Prasetyo</item>
+        <item>Name : Budi Oktaviyan</item>
+        <item>Name : Hendi Santika</item>
+        <item>Name : Sidiq Permana</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Location : Pittsburgh, PA, USA</item>
+        <item>Location : New Delhi, India</item>
+        <item>Location : California</item>
+        <item>Location : Sydney, Australia</item>
+        <item>Location : Trondheim, Norway</item>
+        <item>Location : India</item>
+        <item>Location : Kotagede, Yogyakarta, Indonesia</item>
+        <item>Location : Jakarta, Indonesia</item>
+        <item>Location : Bojongsoang - Bandung Jawa Barat</item>
+        <item>Location : Jakarta Indonesia</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>Repository : 102</item>
+        <item>Repository : 37</item>
+        <item>Repository : 9</item>
+        <item>Repository : 30</item>
+        <item>Repository : 56</item>
+        <item>Repository : 28</item>
+        <item>Repository : 44</item>
+        <item>Repository : 110</item>
+        <item>Repository : 1064</item>
+        <item>Repository : 65</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Company : Google, Inc.</item>
+        <item>Company : MindOrksOpenSource</item>
+        <item>Company : Google</item>
+        <item>Company : Google working on @android</item>
+        <item>Company : Working Group Two</item>
+        <item>Company : AndroidHive | Droid5</item>
+        <item>Company : gojek-engineering</item>
+        <item>Company : KotlinID</item>
+        <item>Company : JVMDeveloperID @KotlinID @IDDevOps</item>
+        <item>Company : Nusantara Beta Studio</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>Followers : 56995</item>
+        <item>Followers : 5153</item>
+        <item>Followers : 7972</item>
+        <item>Followers : 14725</item>
+        <item>Followers : 788</item>
+        <item>Followers : 18628</item>
+        <item>Followers : 277</item>
+        <item>Followers : 178</item>
+        <item>Followers : 428</item>
+        <item>Followers : 465</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>Following : 12</item>
+        <item>Following : 2</item>
+        <item>Following : 0</item>
+        <item>Following : 1</item>
+        <item>Following : 0</item>
+        <item>Following : 3</item>
+        <item>Following : 39</item>
+        <item>Following : 23</item>
+        <item>Following : 61</item>
+        <item>Following : 10</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+
+    <string name="name" />
+    <string name="lorem" />
+    <string name="github_user" />
+    <string name="app_name" />
+</resources>

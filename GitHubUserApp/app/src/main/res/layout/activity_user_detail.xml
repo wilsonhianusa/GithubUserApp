@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UserDetailActivity">
+
+    <ImageView
+        android:id="@+id/img_avatar_detail"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_username_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110dp"
+        android:textColor="#000"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        tools:text="@string/lorem" />
+
+    <TextView
+        android:id="@+id/txt_name_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="30dp"
+        android:textColor="#000"
+        android:textSize="20sp"
+        tools:text="@string/lorem" />
+    <TextView
+        android:id="@+id/txt_location_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_name_detail"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="30dp"
+        android:textColor="#000"
+        android:textSize="20sp"
+        tools:text="@string/lorem" />
+    <TextView
+        android:id="@+id/txt_company_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_location_detail"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="30dp"
+        android:textColor="#000"
+        android:textSize="20sp"
+        tools:text="@string/lorem" />
+
+    <TextView
+        android:id="@+id/txt_followers_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/txt_name_detail"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="200dp"
+        android:maxLines="3"
+        android:text="@string/lorem" />
+    <TextView
+        android:id="@+id/txt_following_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_followers_detail"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="50dp"
+        android:maxLines="3"
+        android:text="@string/lorem" />
+    <TextView
+        android:id="@+id/txt_repository_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_following_detail"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="50dp"
+        android:maxLines="3"
+        android:text="@string/lorem" />
+</RelativeLayout>
